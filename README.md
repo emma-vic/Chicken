@@ -1,18 +1,18 @@
-# Emma's Personal <em> Gogo SqueeZ </em> Experiment
+# Emma's Personal <em> GoGo SqueeZ </em> Experiment
 <p> <em>*I am no nutritionist or dietitian in any way, and a scientific conclusion can not be made. This site is for fun and a slight promotion for the product, so if you're on a time crunch you might not find this site worth reading. The evidence I provided was, in fact, true, and I will leave you on the main point -- eat some GoGo SqueeZ.</em> </p>
-<img src="DSCF7343.JPG" alt="Me happy after consuming my fourth pouch" width=300 height =200>
-  <body> Me with a happy smile right after I ate my fourth <em> Gogo SqueeZ</em> pouch on Wednesday</body>
+<img src="DSCF7343.JPG" width=300 height =200>
+  <body> Me with a happy smile right after I ate my fourth <em> GoGo SqueeZ</em> pouch on Wednesday</body>
 <body style="background-color:green;">
 <h1> Hypothesis</h1>
   <style>
 h1 {color:red;}
 </style>
-<body> <em>Gogo Squeez</em> can improve an individual's overall strength and relieve stress (physically and mentally)! </body>
+<body> <em>GoGo Squeez</em> can improve an individual's overall strength and relieve stress (physically and mentally)! </body>
 <h1> <strong> Background Info </strong></h1>
 <p> I have been recently re-introduced to a delicious snack, <em>GoGo SqueeZ</em>, thanks to my dear cross country coach, Mr. Marchant! The first squirt that went into my mouth a week ago was delicious, not being overally sweet yet still leaving a satisfied taste in my mouth. Right then, I knew that these <em> GoGo SqueeZ</em> packets definitely had to benefit me in some way. </p>
 <p> Once assigned this webpage, I thought long and hard what should I make mine about. I wanted it to be something that I can look back on and laugh about, but also carry some meaning to me. After thinking about it, the perfect idea came to me once I finished my daily <em> GoGo SqueeZ</em> packet. Why don't I do a reflection on this new routine of mine for this webpage? </p>
 <h1> <strong> Experiment </strong></h1>
-<body> The process is simple (definitely too simple)- I eat GoGo Squeez and see how I feel while considering other factors!</body>
+<body> The process is simple (maybe too simple)- I eat GoGo Squeez and see how I feel!</body>
 <h3> Ingredients </h3>
 <a href="https://gogosqueez.com/products/fruits-vegetables"> Click this link to see the ingredients in each magical pouch. </a>
 <h2> Debrief of each day last week</h2>
@@ -25,6 +25,8 @@ h1 {color:red;}
   <li> Saturday, September 23rd - 0 Packets</li> Fun day at a birthday party, but I left my retainer at a restaurant during breakfast with my dad and got introuble with my mom. I am now grounded and can not get boba as my retainer replacement is expensive. </li>
   <li> Total: 11 Packets in 5 days</li>
 </ul></p>
+  <img src="Screenshot 2023-09-24 at 10.36.38 PM.png" width=300 height=200>
+  <body> <em> AppleApple GoGo SqueeZ</em></body>
 <h2> A Conclusion</h2>
 <p> In conclusion, while I did not limit the outliers and factors, one thing that was clear is that my days started becoming amazing after Wednesday when I consumed four packets in that day. The days I had 3 or more packets, there were more good things that happened. On Saturday, when I didn't eat ANY <em> Gogo SqueeZ</em>, it took a drastic downfall as I became grounded from leaving my retainer at a restaurant. </p>
 <p> This evidence supports that when I consume more packets of <em>GoGo SqueeZ</em> I attract the universe to grant me amazing luck! My life progressively became more and more marvelous, yet ended on a sad note the day I didn't eat any <em>GoGo SqueeZ</em>. Personally, I strongly believe it's causation not correlation. </p>
