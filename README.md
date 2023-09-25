@@ -2,7 +2,7 @@
 <p> <em>*I am no nutritionist or dietitian in any way, and a scientific conclusion can not be made. This site is for fun and a slight promotion for the product, so if you're on a time crunch you might not find this site worth reading. The evidence I provided was, in fact, true, and I will leave you on the main point -- eat some GoGo SqueeZ.</em> </p>
 <img src="DSCF7343.JPG" width=300 height =200>
   <body> Me with a happy smile right after I ate my fourth <em> GoGo SqueeZ</em> pouch on Wednesday</body>
-<body style="background-color:powderblue;">
+<body style="background-color:yellow;">
 <h1> Hypothesis</h1>
   <style>
 h1 {color:red;}
