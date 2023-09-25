@@ -1,6 +1,7 @@
 # Emma's Personal <em> Gogo SqueeZ </em> Experiment
-<p> <em>*I am no nutritionist or dietian in any way, and a scientific conclusion can not be made. Realistically, I also know I probably don't have the power to call the universe with <em>GoGo SqueeZ</em>, and my wonderful days aren't determined by <em>GoGo SqueeZ</em>. However, this experiment does show that eating <em>GoGo SqueeZ</em> connects with my wonderful and better days. This site is for fun and a slight promotion for the product, so if you're on a time crunch you might not find this site worth reading. The evidence I provided was, in fact, true, and I will leave you on the main point -- eat some GoGo SqueeZ.</em> </p>
-<img src="DSCF7343.JPG" alt="Me happy after consuming my fourth pouch">
+<p> <em>*I am no nutritionist or dietian in any way, and a scientific conclusion can not be made. This site is for fun and a slight promotion for the product, so if you're on a time crunch you might not find this site worth reading. The evidence I provided was, in fact, true, and I will leave you on the main point -- eat some GoGo SqueeZ.</em> </p>
+<img src="DSCF7343.JPG" alt="Me happy after consuming my fourth pouch" width=300 height =200>
+  <body> Me with a happy smile right after I ate my fourth <em> Gogo SqueeZ</em> pouch on Wednesday</body>
 <h1> Hypothesis</h1>
 <body> <em>Gogo Squeez</em> can improve an individual's overall strength and relieve stress (physically and mentally)! </body>
 <h1> <strong> Background Info </strong></h1>
