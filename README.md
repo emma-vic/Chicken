@@ -2,10 +2,8 @@
 <p> <em>*I am no nutritionist or dietitian in any way, and a scientific conclusion can not be made. This site is for fun and a slight promotion for the product, so if you're on a time crunch you might not find this site worth reading. The evidence I provided was, in fact, true, and I will leave you on the main point -- eat some GoGo SqueeZ.</em> </p>
 <img src="DSCF7343.JPG" width=300 height =200>
   <body> Me with a happy smile right after I ate my fourth <em> GoGo SqueeZ</em> pouch on Wednesday</body>
+<style> h1 {color:red;} </style>
 <h1> Hypothesis</h1>
-  <style>
-h1 {color:red;}
-</style>
 <body> <em>GoGo Squeez</em> can improve an individual's overall strength and relieve stress (physically and mentally)! </body>
 <h1> <strong> Background Info </strong></h1>
 <p> I have been recently re-introduced to a delicious snack, <em>GoGo SqueeZ</em>, thanks to my dear cross country coach, Mr. Marchant! The first squirt that went into my mouth a week ago was delicious, not being overally sweet yet still leaving a satisfied taste in my mouth. Right then, I knew that these <em> GoGo SqueeZ</em> packets definitely had to benefit me in some way. </p>
@@ -32,3 +30,4 @@ h1 {color:red;}
 <p> This evidence supports that when I consume more packets of <em>GoGo SqueeZ</em> I attract the universe to grant me amazing luck! My life progressively became more and more marvelous, yet ended on a sad note the day I didn't eat any <em>GoGo SqueeZ</em>. Personally, I strongly believe it's causation not correlation. </p>
 <h2> You.</h2>
 <p> If you made it this far, I hope you consider eating <em>GoGo SqueeZ</em>. While some may not believe that they made amazing fortune happen in my life, they are delicious snacks that will definitely bring a smile to your face (unless your taste buds are different) and will bring you some happiness. They truly made me happier every pouch I consumed. <em> GoGo SqueeZ forever!</em></p>
+body {background:#ffb6c1;}
