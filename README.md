@@ -14,7 +14,8 @@
 <a href="https://gogosqueez.com/products/fruits-vegetables"> Click this link to see the ingredients in each magical pouch. </a>
 <style> h2 {color:green;}</style>
 <h2> Debrief of each day last week</h2>
-<p><ul>
+<p>
+<ul>
   <li><strong>Monday, September 18th - 1 Packet (Consumed at 9:34am, Flavor: <em> AppleApple</em>).</strong> Felt good overall with some difficulty in math.</li>
   <li><strong>Tuesday, September 19th - 2 Packets (Consumed at 9:36am and during lunch, Flavors: <em> AppleApple</em>).</strong>Slept well last night with 7 hours, but felt tired overall. Happy levels were high and I felt overall refreshed except before I went to sleep (felt overwhelmed)</li>
   <li> <strong>Wednesday, September 20th - 4 Packets (Consumed one in CompSci class, one after math class, two at the cross country race; Flavors: <em> AppleApple, AppleCinnamon)</em></strong> Slept awful last night because of a project, and had a stomachache but went away after I smoothly unloaded. I finished most of my homework before 8pm! I didn't perform as well as I'd hope for the cross country race, but the pain wasn't death defying which is really good. I still felt proud of myself and had a fun day. Katelyn bought me a snowcone, too.</li>
