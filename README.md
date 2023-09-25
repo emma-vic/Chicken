@@ -2,7 +2,7 @@
 <p> <em>*I am no nutritionist or dietitian in any way, and a scientific conclusion can not be made. This site is for fun and a slight promotion for the product, so if you're on a time crunch you might not find this site worth reading. The evidence I provided was, in fact, true, and I will leave you on the main point -- eat some GoGo SqueeZ.</em> </p>
 <img src="DSCF7343.JPG" width=300 height =200>
   <body> Me with a happy smile right after I ate my fourth <em> GoGo SqueeZ</em> pouch on Wednesday</body>
-<body style="background-color:lightgreen;">
+<body style="background-color:powderblue;">
 <h1> Hypothesis</h1>
   <style>
 h1 {color:red;}
@@ -25,6 +25,9 @@ h1 {color:red;}
   <li> Saturday, September 23rd - 0 Packets</li> Fun day at a birthday party, but I left my retainer at a restaurant during breakfast with my dad and got introuble with my mom. I am now grounded and can not get boba as my retainer replacement is expensive. </li>
   <li> Total: 11 Packets in 5 days</li>
 </ul></p>
+  <style>
+h2 {color:green;}
+</style>
   <img src="Screenshot 2023-09-24 at 10.36.38 PM.png" width=300 height=200>
   <body> <em> AppleApple GoGo SqueeZ</em></body>
 <h2> A Conclusion</h2>
