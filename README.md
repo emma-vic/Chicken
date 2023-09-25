@@ -30,4 +30,4 @@
 <p> This evidence supports that when I consume more packets of <em>GoGo SqueeZ</em> I attract the universe to grant me amazing luck! My life progressively became more and more marvelous, yet ended on a sad note the day I didn't eat any <em>GoGo SqueeZ</em>. Personally, I strongly believe it's causation not correlation. </p>
 <h2> You.</h2>
 <p> If you made it this far, I hope you consider eating <em>GoGo SqueeZ</em>. While some may not believe that they made amazing fortune happen in my life, they are delicious snacks that will definitely bring a smile to your face (unless your taste buds are different) and will bring you some happiness. They truly made me happier every pouch I consumed. <em> GoGo SqueeZ forever!</em></p>
-body {background:#ADD8E6;}
+<body {background:#ADD8E6;}>
