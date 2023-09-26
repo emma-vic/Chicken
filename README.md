@@ -27,7 +27,7 @@
   <img src="Screenshot 2023-09-24 at 10.36.38 PM.png" width=300 height=200>
   <body> <em> AppleApple GoGo SqueeZ</em></body>
 <h2> A Conclusion</h2>
-<p> In conclusion, while I did not limit the outliers and factors, one thing that was clear is that my days started becoming amazing after Wednesday when I consumed four packets in that day. The days I had 3 or more packets, there were more good things that happened. On Saturday, when I didn't eat ANY <em> Gogo SqueeZ</em>, it took a drastic downfall as I became grounded from forgetting my retainer at a restaurant. </p>
+<p> In conclusion, while I did not limit the outliers and factors, one thing that was clear is that my days started becoming amazing after Wednesday when I consumed four packets in that day. The days that followed when I consumed 3 packets and then 1 packet, there were more good things that happened. On Saturday, when I didn't eat ANY <em> Gogo SqueeZ</em>, it took a drastic downfall as I became grounded from forgetting my retainer at a restaurant. </p>
 <p> This evidence supports that when I consume more packets of <em>GoGo SqueeZ</em> I attract the universe to grant me amazing luck! My life progressively became more and more marvelous, yet ended on a sad note the day I didn't eat any <em>GoGo SqueeZ</em>. Personally, I strongly believe it's causation not correlation. </p>
 <h2> You.</h2>
 <p> If you made it this far, I hope you consider eating <em>GoGo SqueeZ</em>. While some may not believe that they made amazing fortune happen in my life, they are delicious snacks that will definitely bring a smile to your face (unless your taste buds are different) and will bring you some happiness. They truly made me happier every pouch I consumed. <em> GoGo SqueeZ forever!</em></p>
